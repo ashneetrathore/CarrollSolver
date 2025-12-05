@@ -1,4 +1,4 @@
-## :jigsaw: CARROLL SOLVER | WORD LADDER SOLVER
+## :jigsaw: CARROLL SOLVER
 
 ### :open_book: OVERVIEW
 Date: March 2023\

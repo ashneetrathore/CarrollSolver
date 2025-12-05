@@ -30,7 +30,7 @@ CarrollSolver/
 git clone https://github.com/ashneetrathore/CarrollSolver.git
 cd CarrollSolver
 ```
-**2. Run the program with the following commands**
+**2. Run the program**
 ```bash
 g++ -std=c++17 app/main.cpp app/convert.cpp -o app
 ./app

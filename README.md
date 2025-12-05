@@ -21,7 +21,7 @@ CarrollSolver/
 │   └── runtimeexcept.hpp     # Defines custom exception class
 │── words.txt                 # Stores dictionary of valid words
 │── README.md                 # Project documentation
-│── .gitignore                # Specifies files and folders that shouldn't be included in the repo
+└── .gitignore                # Specifies files and folders that shouldn't be included in the repo
 ```
 
 ### :rocket: CONFIGURATION

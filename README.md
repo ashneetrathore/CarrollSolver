@@ -37,7 +37,7 @@ g++ -std=c++17 app/main.cpp app/convert.cpp -o app
 ```
 
 ### :wrench: TRY IT OUT
-> [!WARNING]\
+> [!IMPORTANT]\
 >The start and target words must be present in the dictionary, and there must exist valid intermediate words connecting them. If not, no sequence will be found.
 
 Here are some example start and target words you can input:

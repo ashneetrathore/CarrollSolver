@@ -14,7 +14,7 @@ Written in **C++**, the program loads a dictionary of words from a file and repr
 ```bash
 CarrollSolver/
 │── app/
-    │── main.cpp              # Takes user input and runs solver
+│   │── main.cpp              # Takes user input and runs solver
 │   │── convert.cpp           # Implements search algorithm and constructs paths
 │   │── convert.hpp           # Declares public functions for word ladder operations
 │   │── MyPriorityQueue.hpp   # Implements binary min-heap priority queue

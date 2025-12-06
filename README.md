@@ -24,12 +24,13 @@ CarrollSolver/
 └── .gitignore                # Specifies files and folders that shouldn't be included in the repo
 ```
 
-### :rocket: CONFIGURATION
+### :rocket: SET UP & EXECUTION
 **1. Clone the repository**
 ```bash
 git clone https://github.com/ashneetrathore/CarrollSolver.git
 cd CarrollSolver
 ```
+
 **2. Run the program**
 ```bash
 g++ -std=c++17 app/main.cpp app/convert.cpp -o app
@@ -40,7 +41,7 @@ g++ -std=c++17 app/main.cpp app/convert.cpp -o app
 > [!IMPORTANT]\
 >The start and target words must be present in the dictionary, and there must be valid intermediate words in the dictionary connecting them. If not, no sequence will be found.
 
-Here are some example start and target words you can input:
+Here are some sample start and target words you can input:
 | Start Word | Target Word |
 |------------|-------------|
 | ate        | eat         |

@@ -33,8 +33,8 @@ cd CarrollSolver
 
 **2. Run the program**
 ```bash
-g++ -std=c++17 app/main.cpp app/convert.cpp -o app
-./app
+g++ -std=c++17 app/main.cpp app/convert.cpp -o app/app
+./app/app
 ```
 
 ### :wrench: TRY IT OUT

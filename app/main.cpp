@@ -19,7 +19,7 @@ int main()
 	}
 
 	std::unordered_set<std::string> words;
-	std::ifstream in("words.txt");
+	std::ifstream in("../words.txt");
 	loadWordsIntoTable(words, in);
 
  	std::vector< std::string > r = convert(WORD_ONE, WORD_TWO, words);

@@ -28,13 +28,13 @@ CarrollSolver/
 **1. Clone the repository**
 ```bash
 git clone https://github.com/ashneetrathore/CarrollSolver.git
-cd CarrollSolver
+cd CarrollSolver/app
 ```
 
 **2. Run the program**
 ```bash
-g++ -std=c++17 app/main.cpp app/convert.cpp -o app/app
-./app/app
+g++ -std=c++17 main.cpp convert.cpp -o app
+./app
 ```
 
 ### :wrench: TRY IT OUT
